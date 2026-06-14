@@ -144,8 +144,8 @@ def read_default_dataset(path_string):
 
 def find_default_dataset():
     candidates = [
-        Path("data publikasi new 2.xlsx"),
-        Path(__file__).parent / "data publikasi new 2.xlsx" if "__file__" in globals() else Path("data publikasi new 2.xlsx"),
+        Path("data publikasi new 3.xlsx"),
+        Path(__file__).parent / "data publikasi new 3.xlsx" if "__file__" in globals() else Path("data publikasi new 3.xlsx"),
     ]
 
     for path in candidates:
