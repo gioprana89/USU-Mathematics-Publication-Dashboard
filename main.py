@@ -22,17 +22,13 @@ st.set_page_config(
 
 
 # =====================================================
-#st.markdown(
- #   """
-  #  ### Dikembangkan oleh Program Studi Matematika, Universitas Sumatera Utara
+st.markdown(
+    """
+    Data Diperbarui pada 14 Juni 2026
+  
 
-   # **Dashboard Publikasi Artikel Jurnal dan Prosiding**  
-   # Program Studi Matematika  
-   # Universitas Sumatera Utara
-
-    #---
-    #"""
-#)
+    """
+)
 # =====================================================
 
 
